@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Run Report">90f9c4b11b1b50107c1140c6cc4bcb9f</sc_cat_item>
+        <sc_catalog display_value="NeedIt Catalog">4e7940b11b1b50107c1140c6cc4bcb65</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 07:58:07</sys_created_on>
+        <sys_id>ba9cc4351b1b50107c1140c6cc4bcb24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Catalog.Run Report</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_ba9cc4351b1b50107c1140c6cc4bcb24</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 07:58:07</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4105cc53dbbebfc0f492c59705961991</instance_id>
+        <instance_name>dev89271</instance_name>
+        <name>sc_cat_item_catalog_ba9cc4351b1b50107c1140c6cc4bcb24</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Run Report">90f9c4b11b1b50107c1140c6cc4bcb9f</sc_cat_item><sc_catalog display_value="NeedIt Catalog">4e7940b11b1b50107c1140c6cc4bcb65</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-17 07:58:07</sys_created_on><sys_id>ba9cc4351b1b50107c1140c6cc4bcb24</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Catalog.Run Report</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_catalog_ba9cc4351b1b50107c1140c6cc4bcb24</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-17 07:58:07</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1327749105</payload_hash>
+        <record_name>NeedIt Catalog.Run Report</record_name>
+        <reverted_from/>
+        <source>01e43e071b0310107c1140c6cc4bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 07:58:07</sys_created_on>
+        <sys_id>b69cc4351b1b50107c1140c6cc4bcb27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1749b12137d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 07:58:07</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>fe9cc4357c1b5010385e34fa3801ce26</update_guid>
+        <update_guid_history>fe9cc4357c1b5010385e34fa3801ce26:1327749105</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt Catalog.Run Report">b2b29cb51b1b50107c1140c6cc4bcb3d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 08:24:52</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0ee06b8273b4459b83370ec79ac321e9</sys_id>
+        <sys_metadata>ba9cc4351b1b50107c1140c6cc4bcb24</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Catalog.Run Report</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">90f9c4b11b1b50107c1140c6cc4bcb9f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_ba9cc4351b1b50107c1140c6cc4bcb24</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_ba9cc4351b1b50107c1140c6cc4bcb24">b69cc4351b1b50107c1140c6cc4bcb27</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 08:24:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
